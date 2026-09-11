@@ -23,4 +23,10 @@ export const scenarios = [
   "Clash by moonlight",
   "Lead for the front",
   "Convergence",
+  "No Escape",
+  "Total Conquest",
+  "Take & Hold",
+  "Clash of Champions",
+  "Cornered",
+  "Duel of Wits",
 ].sort();
