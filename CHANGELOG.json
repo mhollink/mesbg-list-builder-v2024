@@ -1,7 +1,8 @@
 {
   "main": {
     "changed": [
-      "Added more padding around the edge of all profile cards, to help with printing them on postcards via printing services with bleed areas etc."
+      "Added more padding around the edge of all profile cards, to help with printing them on postcards via printing services with bleed areas etc.",
+      "Updated Saruman's name from The Free People's to be Saruman the White."
     ],
     "bugfixes": [
       "Fixed mistakes on the profile cards for Mordor Troll and Hobbit Archers.",
