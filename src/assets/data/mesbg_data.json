@@ -3828,25 +3828,6 @@
       }
     ]
   },
-  "[army-of-the-white-hand] dunlending-chieftain": {
-    "model_id": "[army-of-the-white-hand] dunlending-chieftain",
-    "army_type": "Evil",
-    "army_list": "Army of the White Hand",
-    "profile_origin": "Evil Legacy",
-    "name": "Dunlending Chieftain",
-    "unit_type": "Hero of Fortitude",
-    "base_points": 70,
-    "siege_crew": 0,
-    "legacy": true,
-    "MWFW": [
-      [
-        "",
-        "2:1:1:2"
-      ]
-    ],
-    "warband_size": 12,
-    "options": []
-  },
   "[army-of-the-white-hand] frida-tallspear": {
     "model_id": "[army-of-the-white-hand] frida-tallspear",
     "army_type": "Evil",
@@ -3902,6 +3883,25 @@
       [
         "",
         "2:2:1:2"
+      ]
+    ],
+    "warband_size": 12,
+    "options": []
+  },
+  "[army-of-the-white-hand] dunlending-chieftain": {
+    "model_id": "[army-of-the-white-hand] dunlending-chieftain",
+    "army_type": "Evil",
+    "army_list": "Army of the White Hand",
+    "profile_origin": "Evil Legacy",
+    "name": "Dunlending Chieftain",
+    "unit_type": "Hero of Fortitude",
+    "base_points": 55,
+    "siege_crew": 0,
+    "legacy": true,
+    "MWFW": [
+      [
+        "",
+        "2:1:1:2"
       ]
     ],
     "warband_size": 12,
