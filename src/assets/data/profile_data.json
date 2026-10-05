@@ -8327,6 +8327,55 @@
       ],
       "overflow_cards": [
         "Beorn the Bear"
+      ],
+      "additional_stats": [
+        {
+          "name": "Beorn the Bear",
+          "Mv": "8\"",
+          "Fv": "8",
+          "Sv": "4+",
+          "S": "8",
+          "D": "8",
+          "A": "3",
+          "W": "3",
+          "C": "3+",
+          "I": "6+",
+          "active_or_passive_rules": [
+            {
+              "name": "Skin-changer (Beorn the Bear)",
+              "type": "Active",
+              "description": "At the start of his Activation, Beorn can change his form from Bear to Man. If he does, place the Man model in base contact with the Bear model, and then remove the Bear model from play. If there is no space to place the Man model, then Beorn cannot transform. Once he has transformed, Beorn may continue his Activation as normal, including Charging, in which case check the Line of Sight from the newly placed Man model to determine whether Beorn can Charge. Once Beorn has transformed, he uses the Beorn profile - though his Wounds, Might, Will and Fate Points remain the same between both profiles."
+            },
+            {
+              "name": "Berserk (Beorn the Bear)",
+              "type": "Passive",
+              "description": "When Beorn the Bear begins his Activation, he must check to see if he can Charge an enemy model. If he can then he may not change form during this Activation and he must Charge an enemy model if possible. Additionally, Beorn the Bear may not benefit from the Heroic Actions of other friendly models, with the exception of friendly Bear models, and friendly models may not benefit from the Heroic Actions or Stand Fast of Beorn unless they have the Beorning keyword."
+            },
+            {
+              "name": "Crushing Strength (Beorn the Bear)",
+              "type": "Brutal Power Attack",
+              "description": "If Beorn wins a Duel Roll he can choose to use this Brutal Power Attack. If he does, choose a single enemy   model involved in the Combat. The chosen model immediately suffers a Strength 10 hit. If the To Wound Roll is successful (even if the Wound is prevented), the model immediately suffers another Strength 10 hiWt, and so on until either Beorn fails a To Wound Roll, or the chosen model is slain and removed as a casualty."
+            }
+          ],
+          "magic_powers": [],
+          "heroic_actions": [
+            "Heroic Strength",
+            "Heroic Strike",
+            "Heroic Defence"
+          ],
+          "special_rules": [
+            "Burly",
+            "Dominant (5)",
+            "Fearless",
+            "Monstrous Charge",
+            "Resistant to Magic",
+            "Terror",
+            "Woodland Creature"
+          ],
+          "wargear": [
+            "Claws and teeth (hand weapons)"
+          ]
+        }
       ]
     },
     "Galadriel, Lady of Light": {
@@ -8874,6 +8923,55 @@
       ],
       "overflow_cards": [
         "Grimbeorn the Bear"
+      ],
+      "additional_stats": [
+        {
+          "name": "Grimbeorn the Bear",
+          "Mv": "8\"",
+          "Fv": "7",
+          "Sv": "4+",
+          "S": "8",
+          "D": "8",
+          "A": "3",
+          "W": "3",
+          "C": "3+",
+          "I": "6+",
+          "active_or_passive_rules": [
+            {
+              "name": "Skin-changer (Grimbeorn the Bear)",
+              "type": "Active",
+              "description": "At the beginning of his Activation, Grimbeorn the Bear can change his form from Bear to Man. If he does, place the Man model in base contact with the Bear model, and then remove the Bear model from play. If there is no space to place the Man model, then Grimbeorn cannot transform. Once he has transformed, Grimbeorn may continue his Activation as normal, including Charging in which case check the Line of Sight from the newly placed Man model to determine whether Grimbeorn can Charge. Once Grimbeorn the Bear has transformed, he uses the Grimbeorn profile – though his Wounds, Might, Will and Fate Points remain the same between both profiles."
+            },
+            {
+              "name": "Leader of the Beornings",
+              "type": "Passive",
+              "description": "Only Beorning models can benefit from Grimbeorn's Heroic Actions or Stand Fast."
+            },
+            {
+              "name": "Crushing Strength (Grimbeorn the Bear)",
+              "type": "Brutal Power Attack",
+              "description": "If Grimbeorn wins a Duel Roll he can choose to use this Brutal Power Attack. If he does, choose a single enemy model involved in the Combat. The chosen model immediately suffers a Strength 10 hit. If the To Wound Roll is successful (even if the Wound is prevented), the model immediately suffers another Strength 10 hit, and so on until either Grimbeorn fails a To Wound Roll, or the chosen model is slain and removed as a casualty."
+            }
+          ],
+          "magic_powers": [],
+          "heroic_actions": [
+            "Heroic Strength",
+            "Heroic Strike",
+            "Heroic Defence"
+          ],
+          "special_rules": [
+            "Burly",
+            "Dominant (5)",
+            "Fearless",
+            "Monstrous Charge",
+            "Resistant to Magic",
+            "Terror",
+            "Woodland Creature"
+          ],
+          "wargear": [
+            "Claws and teeth (hand weapons)"
+          ]
+        }
       ]
     },
     "Hobbit Archer": {
