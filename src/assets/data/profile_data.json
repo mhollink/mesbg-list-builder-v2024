@@ -4068,7 +4068,7 @@
         {
           "name": "Ancestral Fury",
           "type": "Active",
-          "description": "If Thorin Charges into Combat with the Infantry keyword, he may declare a free Heroic Combat in the Fight phase."
+          "description": "If Thorin Charges into Combat whilst he has the Infantry keyword, then during the Fight Phase he may declare a Heroic Combat for free."
         }
       ],
       "magic_powers": [],
@@ -14562,7 +14562,7 @@
       "D": "7",
       "A": "3",
       "W": "10",
-      "C": "7+",
+      "C": "8+",
       "I": "9+",
       "active_or_passive_rules": [
         {
