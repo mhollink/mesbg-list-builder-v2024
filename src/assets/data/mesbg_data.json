@@ -23878,7 +23878,14 @@
     "legacy": true,
     "MWFW": [],
     "warband_size": 0,
-    "options": []
+    "options": [
+      {
+        "id": "OPT1479",
+        "name": "Horse",
+        "points": 5,
+        "type": "mount"
+      }
+    ]
   },
   "[realms-of-men] warrior-of-arnor": {
     "model_id": "[realms-of-men] warrior-of-arnor",
